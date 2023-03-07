@@ -38,13 +38,14 @@ Currently, the injector is capable of:
 
 ## `🔮` For The Future
 
-- Add in the ability for dynamic shellcode support.
-- Show process owner.
-- Show SID.
-- Show process privileges.
 - No CRT.
+- Show SID.
+- Show process owner.
+- ~~Aesthetics update.~~ ✅
+- Show process privileges.
+- Add in the ability for dynamic shellcode support.
 - Try messing around with NTDLL/NTAPI; slowly start removing wrappers. A point where I can start messing around with `syscalls` would be awesome.
-- Add in the ability for more process injection techniques like `DLL Injections`; currently the program only supports the very basic [`CreateRemoteThread()`](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethread) shellcode injection.
+- ~~Add in the ability for more process injection techniques like `DLL Injections`; currently the program only supports the very basic [`CreateRemoteThread()`](https://learn.microsoft.com/en-us/windows/win32/api/processthreadsapi/nf-processthreadsapi-createremotethread) shellcode injection.~~ ✅
 
 ## `💽` Installation
 
