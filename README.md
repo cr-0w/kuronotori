@@ -56,7 +56,6 @@ C:\> kuronotori.exe
 
 ## `🍀` Demo
 
->**Warning**: *For this example, I've just used the standard `windows/x64/meterpreter/reverse_tcp` payload from `msfvenom`. You should know by now that any heavily-signatured, popular payload like this will instantly get flagged by AV/EDR. Again, this is just for demonstration. Good luck if you try using this in a patched environment.*
+https://user-images.githubusercontent.com/59679082/223326316-16931b08-7116-4e7b-a8c3-af24cec4bc8b.mp4
 
-
-https://user-images.githubusercontent.com/59679082/222872404-04d5bd79-4362-464e-bed3-cac0184a9b14.mp4
+https://user-images.githubusercontent.com/59679082/223326318-014d75e5-1f44-4935-b0a1-2c45dadfd5be.mp4
