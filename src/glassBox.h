@@ -1,5 +1,4 @@
 #pragma once
-
 #pragma comment(lib, "wtsapi32") 
 
 extern char ok[];
